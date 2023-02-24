@@ -1,8 +1,7 @@
 # ibsng
 
 
-install 
-ibsng.sh
+
 How Install IBSng On CentsOs 7 64.bit ?
 
 Requirement Server :
