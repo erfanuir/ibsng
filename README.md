@@ -1,1 +1,5 @@
 # ibsng
+
+
+install 
+ibsng.sh
